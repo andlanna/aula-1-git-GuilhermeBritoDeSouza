@@ -1,0 +1,35 @@
+Guilherme Brito de Souza - 190028963
+
+Exercícios:
+1.
+a)git init:
+ Inicia repositório a partir de um diretório de dados.
+
+b)git clone:
+ Inicia repositório a partir de um preojeto já existente.
+
+c)git branch:
+ Lista todas as branchs do repositório.
+
+d)git checkout:
+ Altera para outra branch.
+
+e)git fetch:
+ Busca alterações mais recentes da branch atual em um repositório remoto.
+
+f)git pull:
+ Busca alterações de repositórios remotos e incorpora ao repositório atual.
+
+g)git add:
+ Adiciona mudanças no diretório local.
+
+h)git commit:
+ Confirma mudanças no repositório local.
+
+i)git push:
+ Tranfere commits do repositório local para um repositório remoto.
+
+ 2.
+Git fetch busca as diferenças, mas não altera a branch.O git pull faz o git fetch e incorpora as diferenças.
+
+2.
